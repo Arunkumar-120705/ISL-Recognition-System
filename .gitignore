@@ -1,0 +1,7 @@
+mp_env/
+__pycache__/
+*.pyc
+*.npy
+*.h5
+*.log
+.vscode/
